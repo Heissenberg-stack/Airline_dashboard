@@ -3,7 +3,8 @@
 
 An interactive dashboard built with **Python, Pandas, Plotly Express, and Dash** that shows the proportion of flights by distance group (250-mile intervals).
 
-![Dashboard Screenshot](screenshot.png)
+<img width="1240" height="602" alt="Airline_dashboard" src="https://github.com/user-attachments/assets/2e0cc7d8-7e96-4eb2-a465-a4764b1dfde8" />
+
 
 ## 📌 Overview
 
@@ -82,7 +83,7 @@ Go to **http://127.0.0.1:8050** in your browser.
 - Deploy the app online
 
 ## 📄 Data Source
-
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv
 Airline dataset provided through the IBM Developer Skills Network data visualization course.
 
 ## 👤 Author
