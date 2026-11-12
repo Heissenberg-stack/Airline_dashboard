@@ -20,36 +20,20 @@ This project loads a real-world airline dataset, samples 1,000 random records, a
 ## 📂 Project Structure
 
 ```
-├── airline_dashboard.py   # Main application
-├── requirements.txt       # Dependencies
-├── screenshot.png         # Dashboard preview
+├── airline_dashboard.py   # Main application     # Dependencies
+├── screenshot.png
 └── README.md
 ```
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+pip install pandas plotly dash
 ```
 
-### 2. (Optional) Create a virtual environment
-
-```bash
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate     # macOS/Linux
-```
-
-### 3. Install dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 4. Run the app
+### 2. Run the app
 
 ```bash
 python airline_dashboard.py
